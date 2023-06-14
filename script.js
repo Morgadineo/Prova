@@ -38,7 +38,7 @@ function validarSenha(senha) {
 
 }
 
-validarSenha('senha123456')
+validarSenha('Senha123456')
 
 /*3 - Crie uma função que receba um número como parâmetro e retorne o fatorial desse número. 
 O fatorial de um número é o produto de todos os números inteiros positivos menores ou iguais a ele. 
